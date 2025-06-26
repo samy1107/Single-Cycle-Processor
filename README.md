@@ -9,4 +9,4 @@ This project is a Verilog implementation of a **MIPS single-cycle processor**, b
 - Verilog testbench with example instruction memory
 
   ##Synthesis (using quartus)
-  
+  https://github.com/samy1107/Single-Cycle-Processor/blob/main/Synthesis.jpg?raw=true
